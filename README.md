@@ -6,17 +6,22 @@
 <hr />
 <h2> The Challenge </h2>
 <p> Using the following wireframes, build a quiz interface. The questions are all in [questions.json] </p>
+![Progressbar – 5](https://user-images.githubusercontent.com/50809595/147933654-695c7c56-728c-4fb5-b10e-96c50669b734.png)
 
-![wire-question](https://user-images.githubusercontent.com/50809595/137450814-8c7b67de-e9b9-4d8d-9055-0e5ec39ecaee.png)
-![wire-answer-correct](https://user-images.githubusercontent.com/50809595/137450966-1281e87b-002d-454d-92f7-8b54f036d618.png)
-![wire-answer-correct](https://user-images.githubusercontent.com/50809595/137450997-ce16c32b-d071-430c-93fd-8bafcd8cbb32.png)
-![wire-answer-incorrect](https://user-images.githubusercontent.com/50809595/137451028-cc954f9a-2fd6-4c17-9984-c8f213624fec.png)
-<img width="622" alt="wire-progress" src="https://user-images.githubusercontent.com/50809595/137451051-efa6fe04-49ea-4eeb-be4a-e4f92f7df9bd.png">
-<img width="613" alt="wire-difficulty" src="https://user-images.githubusercontent.com/50809595/137451068-0904b48b-da6e-4654-950e-672e53bcf340.png">
-<img width="602" alt="wire-score" src="https://user-images.githubusercontent.com/50809595/137451109-7f8ab747-fe9c-4fc0-943a-0c554be96d3e.png">
+![Right  – 1](https://user-images.githubusercontent.com/50809595/147933662-ffc0a95c-c7dc-4c24-8a3f-98083716b3b3.png)
 
-<h2>Instructions</h1>
-  
+![Right  – 2](https://user-images.githubusercontent.com/50809595/147933667-478f7e2d-f5d7-427a-b139-a148f6f496df.png)
+
+
+![Stars – 3](https://user-images.githubusercontent.com/50809595/147933672-61580372-e383-4ffe-886e-d57f3bd9797e.png)
+![Topbar – 4](https://user-images.githubusercontent.com/50809595/147933692-5e1318bc-1332-4524-a8ae-cb55dc8a41fe.png)
+![Wrong – -2 2](https://user-images.githubusercontent.com/50809595/147933723-78c21f35-0628-4791-9173-42f0944a4397.png)
+
+![Wrong – 2](https://user-images.githubusercontent.com/50809595/147933729-fe79ba15-2410-40aa-90da-2f68fab9929e.png)
+
+
+
+  <h2>Instructions</h1>
   <p>How to attempt this challenge:</p>
   <ol>
     <li>Create a new repo in your account and note the git url</li>
