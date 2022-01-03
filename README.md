@@ -6,7 +6,8 @@
 <hr />
 <h2> The Challenge </h2>
 <p> Using the following wireframes, build a quiz interface. The questions are all in [questions.json] </p>
-![Progressbar – 5](https://user-images.githubusercontent.com/50809595/147933654-695c7c56-728c-4fb5-b10e-96c50669b734.png)
+
+![Progressbar – 5](https://user-images.githubusercontent.com/50809595/147933798-22ed9dcf-4f56-4ecf-993a-617da8167098.png)
 
 ![Right  – 1](https://user-images.githubusercontent.com/50809595/147933662-ffc0a95c-c7dc-4c24-8a3f-98083716b3b3.png)
 
