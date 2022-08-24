@@ -1,4 +1,5 @@
-![77247020](https://user-images.githubusercontent.com/50809595/137444944-f1e51fc3-1651-4435-be93-0e865d67c24d.png)
+![Asin Logo white](https://user-images.githubusercontent.com/50809595/186432517-39454ad2-a2a3-42e0-8427-306c36c2b7b1.svg)
+
 
 <h1> ASinlabs Engineering React Quiz Challenge </h1>
 
